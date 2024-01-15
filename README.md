@@ -19,4 +19,4 @@
     <li>Rasakan peningkatan presentasi konten dengan manajemen paragraf otomatis.</li>
 </ul>
 <p><strong>Pengembang</strong></p>
-<p>Plato Rich</p>
+<p>Bira</p>
